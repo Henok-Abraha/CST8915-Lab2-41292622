@@ -14,9 +14,9 @@
 ---
 ## inks to the  service repositories
 
-[Store Front](https://github.com/Henok-Abraha/store-front)
-[Product Service](https://github.com/Henok-Abraha/product-service)
-[Order Service](https://github.com/Henok-Abraha/order-service)
+![Store Front](https://github.com/Henok-Abraha/store-front)
+![Product Service](https://github.com/Henok-Abraha/product-service)
+![Order Service](https://github.com/Henok-Abraha/order-service)
 
 
 
